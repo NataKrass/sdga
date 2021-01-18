@@ -1,0 +1,105 @@
+ 
+ 
+ ==================14/10/2020 08:47:02 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => project
+    [menu] => Project
+    [menu_image_id] => fas fa-puzzle-piece
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:6:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:13:"bbp_keymaster";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================14/10/2020 08:47:02 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================14/10/2020 08:47:17 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Profile
+    [menu_image_id] => fa fa-user
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:8:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:13:"bbp_keymaster";i:6;s:13:"bbp_spectator";i:7;s:11:"bbp_blocked";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================14/10/2020 08:47:17 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================14/10/2020 09:02:26 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => project
+    [menu] => Project
+    [menu_image_id] => fas fa-camera-retro
+    [show_user_profile] => Enable
+    [menu_order] => 1
+    [user_role] => a:8:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:13:"bbp_keymaster";i:6;s:13:"bbp_spectator";i:7;s:11:"bbp_blocked";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================14/10/2020 09:02:26 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================14/10/2020 09:04:57 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => project
+    [menu] => Project
+    [menu_image_id] => fas fa-camera-retro
+    [show_user_profile] => Enable
+    [menu_order] => 1
+    [user_role] => a:8:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:13:"bbp_keymaster";i:6;s:13:"bbp_spectator";i:7;s:11:"bbp_blocked";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================14/10/2020 09:04:57 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================19/10/2020 14:29:03 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => project
+    [menu] => Project
+    [menu_image_id] => fas fa-calendar-check
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:5:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:13:"bbp_keymaster";}
+    [extended] => 
+    [menu_key] => 
+    [menu_value] => 
+)
+ 
+ 
+ ==================19/10/2020 14:29:03 (DEBUG) END================== 
+ 
+ 
